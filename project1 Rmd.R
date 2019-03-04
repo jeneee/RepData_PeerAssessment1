@@ -2,7 +2,7 @@
 ##Code for reading in the dataset and/or processing the data
 '{r, echo = TRUE}
 
-setwd("C:/Users/daniele/Destop/Coursera/Data Science Specialization/Reproducible Research/Course Project 1")
+setwd("C:/r")
 activity<-read.csv("activity.csv")
 ```
 #Exploring the basics of this data
